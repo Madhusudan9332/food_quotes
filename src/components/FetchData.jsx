@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import LoadMore from "../../../day4_classwork/src/components/LoadMore";
+import LoadMore from "./LoadMore";
 import QuoteList from "./QuoteList";
 
 const FetchData = () => {
